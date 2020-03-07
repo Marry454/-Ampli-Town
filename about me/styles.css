@@ -1,0 +1,96 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family:'Robota'
+}
+.header{
+height:40px;
+backround-color:#FFCCCC;
+text-align: center;
+padding: 10px;
+font-weight: 600;
+transition: all .5s;
+}
+
+
+.name{
+  margin-right: auto;
+  display: block;
+}
+
+a{
+  text-decoration: none;
+  color: #0499ff;
+}
+.menu{
+  display: flex;
+  flex-flow: row;
+  color: #fff
+  list-style-typ: none;
+  margin: 0 auto;
+  padding: 0;
+  justify-content: space-around;
+
+.menu li{
+  padding: 10px;
+}
+
+header img{
+  border-radius: 50%;
+  border: 2px solid #000;
+  transition: all .5s;
+}
+header img:hover{
+  transform:scale(1.4) rotate(360deg);
+
+}
+
+.tag{
+  background-color: #fff;
+  display:table;
+  margin: 10px auto;
+  padding: 10px
+  border-radius: 10px;
+}
+
+.sub-title{
+  background-color: #000;
+  color: yellow;
+}
+.content{
+  display: flex;
+  flex-flow: row;
+  margin: 0px auto;
+  jastify-content: space-around;
+}
+
+.card{
+  max-width: 500px;
+  margin: 10px;
+  padding: 50px;
+  border-bottom: 3px solid grey;
+  border-radius: 5px;
+}
+
+.tag-list{
+  display: flex;
+  flex-flow: row;
+  list-style-typ: none;
+  color: #fff;
+}
+.tag-yellow{
+   background-color:#ff9904;
+}
+
+.tag-blue{
+  background-color: #0399ff;
+}
+
+footer{
+  text-align: center;
+  padding: 60px;
+}
