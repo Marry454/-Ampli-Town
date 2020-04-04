@@ -2,5 +2,14 @@
   background-color: #ffedba;
 }
 .div{
-  jastify-content:center;
+  justify-content:center;
+}
+.premium-class{
+  justify-content:center;
+}
+.footer{
+  background-color: #f6ff4f
+}
+.created{
+  margin: auto;
 }

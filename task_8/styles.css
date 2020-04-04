@@ -1,0 +1,25 @@
+
+
+
+body{
+font-family: Roboto;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 80vh;
+}
+
+
+
+.buton{
+  width: 200px;
+  background-color: #deffcf;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  color: black;
+  transition: transform is ease
+}
+.buton:hover{
+  transform: translateY(50px);
+}
