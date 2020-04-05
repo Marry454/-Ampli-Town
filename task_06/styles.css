@@ -1,0 +1,21 @@
+.body{
+  color:#faf7d2;
+}
+.col{
+  justify-content: flex-start;
+}
+.typ{
+  justify-content: flex-end;
+}
+.color{
+  background-color: #ffd7d4;
+}
+.div{
+  background-color: #000;
+}
+.h2{
+  color:#fff;
+}
+.typ{
+  justify-content: flex-end;
+}

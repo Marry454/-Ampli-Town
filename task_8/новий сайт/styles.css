@@ -1,0 +1,32 @@
+
+
+.body{
+background-color: #fffbde;
+}
+
+}
+
+.buton{
+  width: 200px;
+  background-color: #deffcf;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  color: black;
+  transition: transform 1s ease;
+}
+
+
+.buton:hover{
+  transform: scaleY(200deg);
+}
+.premium{
+  text-align: center;
+  padding: 30px;
+  background-color: #deffcf;
+}
+.food{
+  background-color: #f9ffb8;
+  text-align: center;
+  padding: 30px;
+}

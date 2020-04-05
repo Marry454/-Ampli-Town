@@ -18,8 +18,8 @@ min-height: 80vh;
   padding: 30px;
   border-radius: 10px;
   color: black;
-  transition: transform is ease
+  transition: transform 1s ease;
 }
 .buton:hover{
-  transform: translateY(50px);
+  transform: skewY(200deg);
 }

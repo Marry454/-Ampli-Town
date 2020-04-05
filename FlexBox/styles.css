@@ -1,15 +1,21 @@
 .body{
   background-color: #ffedba;
 }
-.div{
-  justify-content:center;
-}
-.premium-class{
-  justify-content:center;
-}
+
 .footer{
-  background-color: #f6ff4f
+  background-color: #f6ff4f;
 }
 .created{
   margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.div{
+  width: 200px;
+  height: 200px
+}
+
+.premium{
+  justify-content: flex-end;
 }
