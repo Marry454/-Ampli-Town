@@ -16,6 +16,14 @@
 .h2{
   color:#fff;
 }
+
+H1 {
+  color: #000080;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+}
+
 .typ{
   justify-content: flex-end;
 }
